@@ -1,200 +1,533 @@
-{
+[
   {
-"id": "1",
-"pid": "",
-"path": ",1,",
-"level": "1",
-"name": "香港",
-"name_en": "Hong Kong",
-"code": ""
-},
-{
-"id": "2",
-"pid": "1",
-"path": ",1,2,",
-"level": "2",
-"name": "香港岛",
-"name_en": "Hong Kong Island",
-"code": ""
-},
-{
-"id": "3",
-"pid": "1",
-"path": ",1,3,",
-"level": "2",
-"name": "九龙",
-"name_en": "Kowloon",
-"code": ""
-},
-{
-"id": "4",
-"pid": "1",
-"path": ",1,4,",
-"level": "2",
-"name": "新界",
-"name_en": "New Territories",
-"code": ""
-},
-{
-"id": "5",
-"pid": "2",
-"path": ",1,2,5,",
-"level": "3",
-"name": "中西区",
-"name_en": "Central and Western District",
-"code": ""
-},
-{
-"id": "6",
-"pid": "2",
-"path": ",1,2,6,",
-"level": "3",
-"name": "湾仔区",
-"name_en": "Wan Chai District",
-"code": ""
-},
-{
-"id": "7",
-"pid": "2",
-"path": ",1,2,7,",
-"level": "3",
-"name": "东区",
-"name_en": "Eastern District",
-"code": ""
-},
-{
-"id": "8",
-"pid": "2",
-"path": ",1,2,8,",
-"level": "3",
-"name": "南区",
-"name_en": "Southern District",
-"code": ""
-},
-{
-"id": "9",
-"pid": "3",
-"path": ",1,3,9,",
-"level": "3",
-"name": "油尖旺区",
-"name_en": "Yau Tsim Mong District",
-"code": ""
-},
-{
-"id": "10",
-"pid": "3",
-"path": ",1,3,10,",
-"level": "3",
-"name": "深水埗区",
-"name_en": "Sham Shui Po District",
-"code": ""
-},
-{
-"id": "11",
-"pid": "3",
-"path": ",1,3,11,",
-"level": "3",
-"name": "九龙城区",
-"name_en": "Kowloon City District",
-"code": ""
-},
-{
-"id": "12",
-"pid": "3",
-"path": ",1,3,12,",
-"level": "3",
-"name": "黄大仙区",
-"name_en": "Wong Tai Sin District",
-"code": ""
-},
-{
-"id": "13",
-"pid": "3",
-"path": ",1,3,13,",
-"level": "3",
-"name": "观塘区",
-"name_en": "Kwun Tong District",
-"code": ""
-},
-{
-"id": "14",
-"pid": "3",
-"path": ",1,3,14,",
-"level": "3",
-"name": "荃湾区",
-"name_en": "Tsuen Wan District",
-"code": ""
-},
-{
-"id": "15",
-"pid": "3",
-"path": ",1,3,15,",
-"level": "3",
-"name": "屯门区",
-"name_en": "Tuen Mun District",
-"code": ""
-},
-{
-"id": "16",
-"pid": "3",
-"path": ",1,3,16,",
-"level": "3",
-"name": "元朗区",
-"name_en": "Yuen Long District",
-"code": ""
-},
-{
-"id": "17",
-"pid": "3",
-"path": ",1,3,17,",
-"level": "3",
-"name": "北区",
-"name_en": "North District",
-"code": ""
-},
-{
-"id": "18",
-"pid": "3",
-"path": ",1,3,18,",
-"level": "3",
-"name": "大埔区",
-"name_en": "Tai Po District",
-"code": ""
-},
-{
-"id": "19",
-"pid": "3",
-"path": ",1,3,19,",
-"level": "3",
-"name": "西贡区",
-"name_en": "Sai Kung District",
-"code": ""
-},
-{
-"id": "20",
-"pid": "3",
-"path": ",1,3,20,",
-"level": "3",
-"name": "沙田区",
-"name_en": "Sha Tin District",
-"code": ""
-},
-{
-"id": "21",
-"pid": "3",
-"path": ",1,3,21,",
-"level": "3",
-"name": "葵青区",
-"name_en": "Kwai Tsing District",
-"code": ""
-},
-{
-"id": "22",
-"pid": "3",
-"path": ",1,3,22,",
-"level": "3",
-"name": "离岛区",
-"name_en": "Islands District",
-"code": ""
-}
-}
+    "id": "4171",
+    "pid": "",
+    "path": ",1,4171,",
+    "level": "2",
+    "name": "澳门",
+    "name_en": "Macau",
+    "code": "MO"
+  },
+  {
+    "id": "4172",
+    "pid": "4171",
+    "path": ",1,4171,4172,",
+    "level": "3",
+    "name": "澳门半岛",
+    "name_en": "Macau Peninsula",
+    "code": ""
+  },
+  {
+    "id": "4173",
+    "pid": "4171",
+    "path": ",1,4171,4173,",
+    "level": "3",
+    "name": "氹仔",
+    "name_en": "Taipa",
+    "code": ""
+  },
+  {
+    "id": "4174",
+    "pid": "4171",
+    "path": ",1,4171,4174,",
+    "level": "3",
+    "name": "路环",
+    "name_en": "Coloane",
+    "code": ""
+  },
+  {
+    "id": "4175",
+    "pid": "4172",
+    "path": ",1,4171,4172,4175,",
+    "level": "4",
+    "name": "花地玛堂区",
+    "name_en": "Nossa Senhora de Fatima",
+    "code": ""
+  },
+  {
+    "id": "4176",
+    "pid": "4172",
+    "path": ",1,4171,4172,4176,",
+    "level": "4",
+    "name": "圣安多尼堂区",
+    "name_en": "Santo Antonio",
+    "code": ""
+  },
+  {
+    "id": "4177",
+    "pid": "4172",
+    "path": ",1,4171,4172,4177,",
+    "level": "4",
+    "name": "大堂区",
+    "name_en": "Sé",
+    "code": ""
+  },
+  {
+    "id": "4178",
+    "pid": "4172",
+    "path": ",1,4171,4172,4178,",
+    "level": "4",
+    "name": "望德堂区",
+    "name_en": "São Lázaro",
+    "code": ""
+  },
+  {
+    "id": "4179",
+    "pid": "4172",
+    "path": ",1,4171,4172,4179,",
+    "level": "4",
+    "name": "风顺堂区",
+    "name_en": "São Lourenço",
+    "code": ""
+  },
+  {
+    "id": "4180",
+    "pid": "4173",
+    "path": ",1,4171,4173,4180,",
+    "level": "4",
+    "name": "嘉模堂区",
+    "name_en": "Taipa",
+    "code": ""
+  },
+  {
+    "id": "4181",
+    "pid": "4174",
+    "path": ",1,4171,4174,4181,",
+    "level": "4",
+    "name": "圣方济各堂区",
+    "name_en": "Coloane",
+    "code": ""
+  },
+  {
+    "id": "4182",
+    "pid": "",
+    "path": ",1,4182,",
+    "level": "2",
+    "name": "香港",
+    "name_en": "Hong Kong",
+    "code": "HK"
+  },
+  {
+    "id": "4183",
+    "pid": "4182",
+    "path": ",1,4182,4183,",
+    "level": "3",
+    "name": "香港岛",
+    "name_en": "Hong Kong Island",
+    "code": ""
+  },
+  {
+    "id": "4184",
+    "pid": "4182",
+    "path": ",1,4182,4184,",
+    "level": "3",
+    "name": "九龙",
+    "name_en": "Kowloon",
+    "code": ""
+  },
+  {
+    "id": "4185",
+    "pid": "4182",
+    "path": ",1,4182,4185,",
+    "level": "3",
+    "name": "新界",
+    "name_en": "New Territories",
+    "code": ""
+  },
+  {
+    "id": "4186",
+    "pid": "4183",
+    "path": ",1,4182,4183,4186,",
+    "level": "4",
+    "name": "中西区",
+    "name_en": "Central and Western District",
+    "code": ""
+  },
+  {
+    "id": "4187",
+    "pid": "4183",
+    "path": ",1,4182,4183,4187,",
+    "level": "4",
+    "name": "湾仔区",
+    "name_en": "Wan Chai District",
+    "code": ""
+  },
+  {
+    "id": "4188",
+    "pid": "4183",
+    "path": ",1,4182,4183,4188,",
+    "level": "4",
+    "name": "东区",
+    "name_en": "Eastern District",
+    "code": ""
+  },
+  {
+    "id": "4189",
+    "pid": "4183",
+    "path": ",1,4182,4183,4189,",
+    "level": "4",
+    "name": "南区",
+    "name_en": "Southern District",
+    "code": ""
+  },
+  {
+    "id": "4190",
+    "pid": "4184",
+    "path": ",1,4182,4184,4190,",
+    "level": "4",
+    "name": "油尖旺区",
+    "name_en": "Yau Tsim Mong District",
+    "code": ""
+  },
+  {
+    "id": "4191",
+    "pid": "4184",
+    "path": ",1,4182,4184,4191,",
+    "level": "4",
+    "name": "深水埗区",
+    "name_en": "Sham Shui Po District",
+    "code": ""
+  },
+  {
+    "id": "4192",
+    "pid": "4184",
+    "path": ",1,4182,4184,4192,",
+    "level": "4",
+    "name": "九龙城区",
+    "name_en": "Kowloon City District",
+    "code": ""
+  },
+  {
+    "id": "4193",
+    "pid": "4184",
+    "path": ",1,4182,4184,4193,",
+    "level": "4",
+    "name": "黄大仙区",
+    "name_en": "Wong Tai Sin District",
+    "code": ""
+  },
+  {
+    "id": "4194",
+    "pid": "4184",
+    "path": ",1,4182,4184,4194,",
+    "level": "4",
+    "name": "观塘区",
+    "name_en": "Kwun Tong District",
+    "code": ""
+  },
+  {
+    "id": "4195",
+    "pid": "4185",
+    "path": ",1,4182,4185,4195,",
+    "level": "4",
+    "name": "荃湾区",
+    "name_en": "Tsuen Wan District",
+    "code": ""
+  },
+  {
+    "id": "4196",
+    "pid": "4185",
+    "path": ",1,4182,4185,4196,",
+    "level": "4",
+    "name": "屯门区",
+    "name_en": "Tuen Mun District",
+    "code": ""
+  },
+  {
+    "id": "4197",
+    "pid": "4185",
+    "path": ",1,4182,4185,4197,",
+    "level": "4",
+    "name": "元朗区",
+    "name_en": "Yuen Long District",
+    "code": ""
+  },
+  {
+    "id": "4198",
+    "pid": "4185",
+    "path": ",1,4182,4185,4198,",
+    "level": "4",
+    "name": "北区",
+    "name_en": "North District",
+    "code": ""
+  },
+  {
+    "id": "4199",
+    "pid": "4185",
+    "path": ",1,4182,4185,4199,",
+    "level": "4",
+    "name": "大埔区",
+    "name_en": "Tai Po District",
+    "code": ""
+  },
+  {
+    "id": "4200",
+    "pid": "4185",
+    "path": ",1,4182,4185,4200,",
+    "level": "4",
+    "name": "西贡区",
+    "name_en": "Sai Kung District",
+    "code": ""
+  },
+  {
+    "id": "4201",
+    "pid": "4185",
+    "path": ",1,4182,4185,4201,",
+    "level": "4",
+    "name": "沙田区",
+    "name_en": "Sha Tin District",
+    "code": ""
+  },
+  {
+    "id": "4202",
+    "pid": "4185",
+    "path": ",1,4182,4185,4202,",
+    "level": "4",
+    "name": "葵青区",
+    "name_en": "Kwai Tsing District",
+    "code": ""
+  },
+  {
+    "id": "4203",
+    "pid": "4185",
+    "path": ",1,4182,4185,4203,",
+    "level": "4",
+    "name": "离岛区",
+    "name_en": "Islands District",
+    "code": ""
+  },
+  {
+    "id": "4204",
+    "pid": "",
+    "path": ",1,4204,",
+    "level": "2",
+    "name": "台湾",
+    "name_en": "Taiwan",
+    "code": "TW"
+  },
+  {
+    "id": "4205",
+    "pid": "4204",
+    "path": ",1,4204,4205,",
+    "level": "3",
+    "name": "台北市",
+    "name_en": "Taipei City",
+    "code": ""
+  },
+  {
+    "id": "4206",
+    "pid": "4205",
+    "path": ",1,4204,4205,4206,",
+    "level": "4",
+    "name": "中正区",
+    "name_en": "Zhongzheng District",
+    "code": ""
+  },
+  {
+    "id": "4207",
+    "pid": "4205",
+    "path": ",1,4204,4205,4207,",
+    "level": "4",
+    "name": "大同区",
+    "name_en": "Datong District",
+    "code": ""
+  },
+  {
+    "id": "4208",
+    "pid": "4205",
+    "path": ",1,4204,4205,4208,",
+    "level": "4",
+    "name": "中山区",
+    "name_en": "Zhongshan District",
+    "code": ""
+  },
+  {
+    "id": "4209",
+    "pid": "4205",
+    "path": ",1,4204,4205,4209,",
+    "level": "4",
+    "name": "万华区",
+    "name_en": "Wanhua District",
+    "code": ""
+  },
+  {
+    "id": "4210",
+    "pid": "4205",
+    "path": ",1,4204,4205,4210,",
+    "level": "4",
+    "name": "信义区",
+    "name_en": "Xinyi District",
+    "code": ""
+  },
+  {
+    "id": "4211",
+    "pid": "4205",
+    "path": ",1,4204,4205,4211,",
+    "level": "4",
+    "name": "松山区",
+    "name_en": "Songshan District",
+    "code": ""
+  },
+  {
+    "id": "4212",
+    "pid": "4205",
+    "path": ",1,4204,4205,4212,",
+    "level": "4",
+    "name": "大安区",
+    "name_en": "Da'an District",
+    "code": ""
+  },
+  {
+    "id": "4213",
+    "pid": "4205",
+    "path": ",1,4204,4205,4213,",
+    "level": "4",
+    "name": "南港区",
+    "name_en": "Nangang District",
+    "code": ""
+  },
+  {
+    "id": "4214",
+    "pid": "4205",
+    "path": ",1,4204,4205,4214,",
+    "level": "4",
+    "name": "北投区",
+    "name_en": "Beitou District",
+    "code": ""
+  },
+  {
+    "id": "4215",
+    "pid": "4205",
+    "path": ",1,4204,4205,4215,",
+    "level": "4",
+    "name": "内湖区",
+    "name_en": "Neihu District",
+    "code": ""
+  },
+  {
+    "id": "4216",
+    "pid": "4205",
+    "path": ",1,4204,4205,4216,",
+    "level": "4",
+    "name": "士林区",
+    "name_en": "Shilin District",
+    "code": ""
+  },
+  {
+    "id": "4217",
+    "pid": "4205",
+    "path": ",1,4204,4205,4217,",
+    "level": "4",
+    "name": "文山区",
+    "name_en": "Wenshan District",
+    "code": ""
+  },
+  {
+    "id": "4218",
+    "pid": "4204",
+    "path": ",1,4204,4218,",
+    "level": "3",
+    "name": "高雄市",
+    "name_en": "Kaohsiung City",
+    "code": ""
+  },
+  {
+    "id": "4219",
+    "pid": "4218",
+    "path": ",1,4204,4218,4219,",
+    "level": "4",
+    "name": "新兴区",
+    "name_en": "Xinxing District",
+    "code": ""
+  },
+  {
+    "id": "4220",
+    "pid": "4218",
+    "path": ",1,4204,4218,4220,",
+    "level": "4",
+    "name": "前金区",
+    "name_en": "Qianjin District",
+    "code": ""
+  },
+  {
+    "id": "4221",
+    "pid": "4218",
+    "path": ",1,4204,4218,4221,",
+    "level": "4",
+    "name": "苓雅区",
+    "name_en": "Lingya District",
+    "code": ""
+  },
+  {
+    "id": "4222",
+    "pid": "4218",
+    "path": ",1,4204,4218,4222,",
+    "level": "4",
+    "name": "盐埕区",
+    "name_en": "Yancheng District",
+    "code": ""
+  },
+  {
+    "id": "4223",
+    "pid": "4218",
+    "path": ",1,4204,4218,4223,",
+    "level": "4",
+    "name": "鼓山区",
+    "name_en": "Gushan District",
+    "code": ""
+  },
+  {
+    "id": "4224",
+    "pid": "4218",
+    "path": ",1,4204,4218,4224,",
+    "level": "4",
+    "name": "旗津区",
+    "name_en": "Qijin District",
+    "code": ""
+  },
+  {
+    "id": "4225",
+    "pid": "4218",
+    "path": ",1,4204,4218,4225,",
+    "level": "4",
+    "name": "前镇区",
+    "name_en": "Qianzhen District",
+    "code": ""
+  },
+  {
+    "id": "4226",
+    "pid": "4218",
+    "path": ",1,4204,4218,4226,",
+    "level": "4",
+    "name": "三民区",
+    "name_en": "Sanmin District",
+    "code": ""
+  },
+  {
+    "id": "4227",
+    "pid": "4218",
+    "path": ",1,4204,4218,4227,",
+    "level": "4",
+    "name": "左营区",
+    "name_en": "Zuoying District",
+    "code": ""
+  },
+  {
+    "id": "4228",
+    "pid": "4218",
+    "path": ",1,4204,4218,4228,",
+    "level": "4",
+    "name": "楠梓区",
+    "name_en": "Nanzi District",
+    "code": ""
+  },
+  {
+    "id": "4229",
+    "pid": "4218",
+    "path": ",1,4204,4218,4229,",
+    "level": "4",
+    "name": "小港区",
+    "name_en": "Xiaogang District",
+    "code": ""
+  }
+]
