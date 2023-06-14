@@ -4,7 +4,7 @@
     "pid": "1",
     "path": ",1,4171,",
     "level": "2",
-    "name": "澳门",
+    "name": "澳門",
     "name_en": "Macau",
     "code": "MO"
   },
@@ -13,7 +13,7 @@
     "pid": "4171",
     "path": ",1,4171,4172,",
     "level": "3",
-    "name": "澳门半岛",
+    "name": "澳門半島",
     "name_en": "Macau Peninsula",
     "code": ""
   },
@@ -31,7 +31,7 @@
     "pid": "4171",
     "path": ",1,4171,4174,",
     "level": "3",
-    "name": "路环",
+    "name": "路環",
     "name_en": "Coloane",
     "code": ""
   },
@@ -40,7 +40,7 @@
     "pid": "4172",
     "path": ",1,4171,4172,4175,",
     "level": "4",
-    "name": "花地玛堂区",
+    "name": "花地瑪堂區",
     "name_en": "Nossa Senhora de Fatima",
     "code": ""
   },
@@ -49,7 +49,7 @@
     "pid": "4172",
     "path": ",1,4171,4172,4176,",
     "level": "4",
-    "name": "圣安多尼堂区",
+    "name": "聖安多尼堂區",
     "name_en": "Santo Antonio",
     "code": ""
   },
@@ -58,7 +58,7 @@
     "pid": "4172",
     "path": ",1,4171,4172,4177,",
     "level": "4",
-    "name": "大堂区",
+    "name": "大堂區",
     "name_en": "Sé",
     "code": ""
   },
@@ -67,7 +67,7 @@
     "pid": "4172",
     "path": ",1,4171,4172,4178,",
     "level": "4",
-    "name": "望德堂区",
+    "name": "望德堂區",
     "name_en": "São Lázaro",
     "code": ""
   },
@@ -76,7 +76,7 @@
     "pid": "4172",
     "path": ",1,4171,4172,4179,",
     "level": "4",
-    "name": "风顺堂区",
+    "name": "風順堂區",
     "name_en": "São Lourenço",
     "code": ""
   },
@@ -85,7 +85,7 @@
     "pid": "4173",
     "path": ",1,4171,4173,4180,",
     "level": "4",
-    "name": "嘉模堂区",
+    "name": "嘉模堂區",
     "name_en": "Taipa",
     "code": ""
   },
@@ -94,7 +94,7 @@
     "pid": "4174",
     "path": ",1,4171,4174,4181,",
     "level": "4",
-    "name": "圣方济各堂区",
+    "name": "聖方濟各堂區",
     "name_en": "Coloane",
     "code": ""
   },
@@ -112,7 +112,7 @@
     "pid": "4182",
     "path": ",1,4182,4183,",
     "level": "3",
-    "name": "香港岛",
+    "name": "香港島",
     "name_en": "Hong Kong Island",
     "code": ""
   },
@@ -121,7 +121,7 @@
     "pid": "4182",
     "path": ",1,4182,4184,",
     "level": "3",
-    "name": "九龙",
+    "name": "九龍",
     "name_en": "Kowloon",
     "code": ""
   },
@@ -139,7 +139,7 @@
     "pid": "4183",
     "path": ",1,4182,4183,4186,",
     "level": "4",
-    "name": "中西区",
+    "name": "中西區",
     "name_en": "Central and Western District",
     "code": ""
   },
@@ -148,7 +148,7 @@
     "pid": "4183",
     "path": ",1,4182,4183,4187,",
     "level": "4",
-    "name": "湾仔区",
+    "name": "灣仔區",
     "name_en": "Wan Chai District",
     "code": ""
   },
@@ -157,7 +157,7 @@
     "pid": "4183",
     "path": ",1,4182,4183,4188,",
     "level": "4",
-    "name": "东区",
+    "name": "東區",
     "name_en": "Eastern District",
     "code": ""
   },
@@ -166,7 +166,7 @@
     "pid": "4183",
     "path": ",1,4182,4183,4189,",
     "level": "4",
-    "name": "南区",
+    "name": "南區",
     "name_en": "Southern District",
     "code": ""
   },
@@ -175,7 +175,7 @@
     "pid": "4184",
     "path": ",1,4182,4184,4190,",
     "level": "4",
-    "name": "油尖旺区",
+    "name": "油尖旺區",
     "name_en": "Yau Tsim Mong District",
     "code": ""
   },
@@ -184,7 +184,7 @@
     "pid": "4184",
     "path": ",1,4182,4184,4191,",
     "level": "4",
-    "name": "深水埗区",
+    "name": "深水埗區",
     "name_en": "Sham Shui Po District",
     "code": ""
   },
@@ -193,7 +193,7 @@
     "pid": "4184",
     "path": ",1,4182,4184,4192,",
     "level": "4",
-    "name": "九龙城区",
+    "name": "九龍城區",
     "name_en": "Kowloon City District",
     "code": ""
   },
@@ -202,7 +202,7 @@
     "pid": "4184",
     "path": ",1,4182,4184,4193,",
     "level": "4",
-    "name": "黄大仙区",
+    "name": "黃大仙區",
     "name_en": "Wong Tai Sin District",
     "code": ""
   },
@@ -211,7 +211,7 @@
     "pid": "4184",
     "path": ",1,4182,4184,4194,",
     "level": "4",
-    "name": "观塘区",
+    "name": "觀塘區",
     "name_en": "Kwun Tong District",
     "code": ""
   },
@@ -220,7 +220,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4195,",
     "level": "4",
-    "name": "荃湾区",
+    "name": "荃灣區",
     "name_en": "Tsuen Wan District",
     "code": ""
   },
@@ -229,7 +229,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4196,",
     "level": "4",
-    "name": "屯门区",
+    "name": "屯門區",
     "name_en": "Tuen Mun District",
     "code": ""
   },
@@ -238,7 +238,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4197,",
     "level": "4",
-    "name": "元朗区",
+    "name": "元朗區",
     "name_en": "Yuen Long District",
     "code": ""
   },
@@ -247,7 +247,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4198,",
     "level": "4",
-    "name": "北区",
+    "name": "北區",
     "name_en": "North District",
     "code": ""
   },
@@ -256,7 +256,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4199,",
     "level": "4",
-    "name": "大埔区",
+    "name": "大埔區",
     "name_en": "Tai Po District",
     "code": ""
   },
@@ -265,7 +265,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4200,",
     "level": "4",
-    "name": "西贡区",
+    "name": "西貢區",
     "name_en": "Sai Kung District",
     "code": ""
   },
@@ -274,7 +274,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4201,",
     "level": "4",
-    "name": "沙田区",
+    "name": "沙田區",
     "name_en": "Sha Tin District",
     "code": ""
   },
@@ -283,7 +283,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4202,",
     "level": "4",
-    "name": "葵青区",
+    "name": "葵青區",
     "name_en": "Kwai Tsing District",
     "code": ""
   },
@@ -292,7 +292,7 @@
     "pid": "4185",
     "path": ",1,4182,4185,4203,",
     "level": "4",
-    "name": "离岛区",
+    "name": "離島區",
     "name_en": "Islands District",
     "code": ""
   }
